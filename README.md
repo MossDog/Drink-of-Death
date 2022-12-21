@@ -12,12 +12,12 @@ This is a sim of the Korean game, "Drink of Death"
 8. The game is then finished
 
 # Implementation
-1. No. of participants is supplied via command line arguments.
+1. Participants are supplied via command line arguments.
 2. Leader can be chosen manually or randomly
 3. Each participant points to another person before the game begins (they cannot point at themselves)
 4. Number of steps the game will take to complete can be chosen manually or randomly
 5. The game should be printed out as it runs
 
 # Additional requirements
-Add a way of detecting when the game enters a loop and how long it takes for the game to enter a loop.
-Add a way to count how many loops emerge in a game and find the largest loop (ie. the loop with the most players in it).
+1. Add a way of detecting when the game enters a loop and how long it takes for the game to enter a loop.
+2. Add a way to count how many loops emerge in a game and find the largest loop (ie. the loop with the most players in it).
