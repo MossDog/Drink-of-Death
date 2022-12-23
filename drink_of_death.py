@@ -59,7 +59,7 @@ def findLoops(parts, points):
 
 
 def runGame(parts, points, leader):
-    superDict = {1:'\u02e2\u1d57', 2:'\u207F;\u1D48', 3:'\u02B3\u1d48'} # 1:st, 2:nd, 3:rd
+    superDict = {1:'\u02e2\u1d57', 2:'\u207F\u1D48', 3:'\u02B3\u1d48'} # 1:st, 2:nd, 3:rd
     thStr = '\u1D57\u02B0'
     loop = None
     curr = leader
